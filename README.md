@@ -1,3 +1,10 @@
+# DEPRECATED BRANCH
+
+This branch is for the older Python 2 version of this utility.  There's
+actually not going to be much different on the Python 3 version yet (though
+it does support unlocking UVHM, which this version does not), but there'll
+be no further development on this branch.
+
 # Borderlands 2 / Borderlands: The Pre-Sequel Save File Modification Tool
 
 This is a simple command line utility to extract and modify player information
